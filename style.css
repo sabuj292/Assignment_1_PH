@@ -1,0 +1,12 @@
+/* Nav styles */
+
+.navigation{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.primary-color{
+    color: #4E47FF;
+
+}
