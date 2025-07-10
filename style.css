@@ -14,8 +14,36 @@
   /* font-style: normal; */
 }
 
+/* secondary font */
+
+.raleway-font {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}
+
+/* header section bg image */
+
+.header{
+    background-image: url(/images/Hero-bg.png);
+    background-size: cover;       /* Cover entire header */
+    background-position: center;  /* Center the image */
+    /* max-height: 700px;                Set height of header */
+                   /* Optional: text color */
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+
 .header-container1{
-    margin: 50px;
+    margin: 0px 20px;
+}
+
+.header-container2{
+    margin-bottom: 152px;
+    margin-left: 267px;
+    margin-right: 267px;
 }
 
 .primary-color{
