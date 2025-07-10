@@ -6,6 +6,18 @@
     justify-content: space-between;
 }
 
+/* Font for LOGO */
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  /* font-style: normal; */
+}
+
+.header-container1{
+    margin: 50px;
+}
+
 .primary-color{
     color: #4E47FF;
 
