@@ -1,17 +1,9 @@
-/* Nav styles */
-/* 
-.navigation{
-    display: flex;
-    list-style: none;
-    justify-content: space-between;
-} */
 
-/* Font for LOGO */
 .inter-font {
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
   font-weight: bold;
-  /* font-style: normal; */
+ 
 }
 
 /* secondary font */
@@ -88,7 +80,7 @@ body {
   background-color: #3730a3;
 }
 
-/* Main heading + CTA */
+
 .hero-main {
   text-align: center;
   /* margin-top: auto; */
@@ -125,7 +117,6 @@ body {
 }
 
 
-/* style for 2nd section  */
 .action-section {
   display: flex;
   align-items: center;
@@ -219,7 +210,7 @@ body {
   justify-content: space-around;
   flex-wrap: wrap;
   gap: 20px;
-  margin-top: 40px; /* ← Adds the required space */
+  margin-top: 40px; 
 }
 
 .stat h3 {
@@ -418,8 +409,8 @@ body {
 }
 
 .contact-right button:hover {
-  background-color: #3730a3;  /* Slightly darker purple */
-  transform: translateY(-2px); /* subtle lift */
+  background-color: #3730a3; 
+  transform: translateY(-2px); 
 }
 
 /* Styles for Footer section */
